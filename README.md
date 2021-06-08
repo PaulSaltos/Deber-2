@@ -42,6 +42,7 @@ A continuación, vamos a definir los objetivos planteados en el informe, de acue
 
 Capitulo 3
 
+![image](https://user-images.githubusercontent.com/85178869/121202306-cf821800-c83a-11eb-9bb0-a09898d8e709.png)
 
 Capitulo 4
 
@@ -120,3 +121,21 @@ https://www.youtube.com/watch?v=dcI0sueOXtw&ab_channel=PaulSaltos
 
 # 5.	CONCLUSIONES 
 
+• Las resistencias son en teoría los componentes mas utilizados en la electricidad y electrónica, por lo tanto es totalmente necesario comprender y dominar los métodos los cuales nos permiten identificar su valor para poder utilizarlas de la manera mas adecuada posible
+
+•El código de colores es una fuente de información que poseemos para identificar el valor en ohmios de resistencias eléctricas de laminilla de carbón. Este código fue desarrollado para la unificación del valor de la resistencia a nivel mundial 
+
+•La ley de Ohm es una muy útil herramienta que permite “predecir” lo que sucedera en un circuito eléctrico antes de construirlo.
+
+•Por otra parte nos permite resolver problemas en circuitos eléctricos al permitirnos determinar la corriente, voltaje o resistencia conociendo dos de estas tres cantidades.
+
+# 6. Bibliografia web 
+
+
+https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-resistencia
+
+https://es.slideshare.net/onicer/medresistencia-electrica
+
+https://es.slideshare.net/DanielLeonardoGuzmanParra/ley-de-ohm-36384849
+
+https://es.slideshare.net/DanielLeonardoGuzmanParra/ley-de-ohm-36384849
