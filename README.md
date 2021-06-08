@@ -40,8 +40,12 @@ A continuación, vamos a definir los objetivos planteados en el informe, de acue
  
 # 2.	MARCO TEORICO 
 
+Capitulo 3
+
 
 Capitulo 4
+
+![image](https://user-images.githubusercontent.com/85178869/121198592-de1b0000-c837-11eb-9186-f50ca48d5af7.png)
 
 
 
