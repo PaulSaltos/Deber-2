@@ -80,3 +80,37 @@ CAPITULO 3
 ![image](https://user-images.githubusercontent.com/85178869/121149262-20c4e400-c808-11eb-9917-9f23248b7cfc.png)
 
 Capitulo 4
+
+
+![image](https://user-images.githubusercontent.com/85178869/121150207-ef98e380-c808-11eb-98f3-1ce1e057be48.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121150328-0b03ee80-c809-11eb-81eb-cca404fb677d.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121150614-4b636c80-c809-11eb-8862-89286c5b28e1.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121150758-69c96800-c809-11eb-8505-82b96310f474.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121150832-7948b100-c809-11eb-99ce-7887d30e3015.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121151141-bd3bb600-c809-11eb-94d4-af8e085cdeb5.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121151514-0d1a7d00-c80a-11eb-8e0f-541c7d2ee231.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121151601-202d4d00-c80a-11eb-9e81-ce338ee63d4d.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121151670-320ef000-c80a-11eb-94e4-510d18afb29c.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121151817-4f43be80-c80a-11eb-80d9-415bb9663d31.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121151943-68e50600-c80a-11eb-9037-3b6ebaa37557.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121152023-7a2e1280-c80a-11eb-91e7-bb075f0016ec.png)
+
+![image](https://user-images.githubusercontent.com/85178869/121152111-8b771f00-c80a-11eb-94dd-1a07df8cc4b5.png)
+
+# 4.	VIDEO 
+
+https://www.youtube.com/watch?v=dcI0sueOXtw&ab_channel=PaulSaltos
+
+# 5.	CONCLUSIONES 
+
